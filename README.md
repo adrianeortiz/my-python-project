@@ -1,7 +1,9 @@
 # my-python-project
-Python Projects from Bootcamp - Manual Tasks
+Python Projects from Bootcamp and self learning
 includes the following:
 - Python Program 'Calculator'
 - Python Program 'Guessing Game'
-- Exercise 8: Working with Dates
-- Exercise 10: Working with REST APIs
+- Working with Dates
+- Working with REST APIs
+- Fortune Cookie Program
+- Lyrics Analyzer Program
